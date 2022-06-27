@@ -10,6 +10,8 @@
 Curso completo de Programação Orientada a Objetos (POO) com a linguagem Java. Aborda os principais conceitos como Classes, Objetos, instanciamento, abstração, encapsulamento, herança, polimorfismo e muito mais. Criado pelo professor Gustavo Guanabara para o Curso em Vídeo, explica todos os conceitos de POO de uma maneira simples, objetiva e divertida.
 </p>
 
+<p>Playlist do curso <a href="https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&ab_channel=CursoemV%C3%ADdeo" target="_blank">aqui</a></p>
+
 ##
 
 <h3>:computer: Tecnologias utilizadas no curso: </h3>
@@ -37,4 +39,18 @@ Curso completo de Programação Orientada a Objetos (POO) com a linguagem Java. 
   <li>Aula Pratica 7 - Objetos Compostos em Java</li>
   <li>Aula Teórica 8 - Relacionamento de Agregação</li>
   <li>Aula Prática 8 - Agregação entre Objetos com Java</li>
+  <li>Aula Teórica 9 - Exercícios de POO</li>
+  <li>Aula Prática 9 - Exercício prático POO em Java</li>
+  <li>Aula Teórica 10 - Herança (Parte 1)</li>
+  <li>Aula Prática 10 - Herança (Parte 1)</li>
+  <li>Aula Teórica 11 - Herança (Parte 2)</li>
+  <li>Aula Prática 11 - Herança (Parte 2)</li>
+  <li>Aula Teórica 12 - Conceito Polimorfismo (Parte 1)</li>
+  <li>Aula Prática 12 - Polimorfismo em Java (Parte 1)</li>
+  <li>Aula Teórica 13 - Conceito Polimorfismo (Parte 2)</li>
+  <li>Aula Prática 13 - Polimorfismo Sobrecarga (Parte 2)</li>
+  <li>Aula Teórica 14 - Exercícios de POO (Parte 2)</li>
+  <li>Aula Prática 14 - Projeto Final em Java (Parte 1)</li>
+  <li>Aula Teórica 15 - Exercícios de POO (Parte 3)</li>
+  <li>Aula Prática 15 - Projeto Final em Java (Parte 2)</li>
  </ul>
